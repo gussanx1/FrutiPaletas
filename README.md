@@ -20,26 +20,19 @@ El objetivo principal del sistema es modernizar y optimizar la experiencia de co
 - **Pasarela de Pago**: Integración para procesar pagos de manera segura.
 - **Historial de Compras**: Seguimiento de los pedidos realizados.
 
-### 👩‍💼 Para el Administrador:
-- **Gestión de Productos**: Agregar, editar y eliminar helados del catálogo.
-- **Control de Pedidos**: Ver el estado y detalles de las compras realizadas por los clientes.
-- **Reportes**: Generación de informes sobre ventas y productos más vendidos.
-- **Gestión de Usuarios**: Administrar las cuentas de los clientes y permisos.
-
----
-
-## 🧩 Proceso de Compra
-
-A continuación, se muestra un fragmento del sistema que representa la realización de una compra en el sitio web:
-
-![Fragmento del sistema - Proceso de Compra](https://github.com/user-attachments/assets/57b2fe47-e4a3-41ae-8d30-451050822cd5)
+### 🗄️ Base de Datos (Pendiente de Implementación):
+- **Próxima Implementación:** Incorporar una base de datos relacional para almacenar y gestionar la información del sistema, como productos, usuarios y transacciones.
+- **Propuesta Inicial:**
+  - Tabla de **Productos**: Para registrar información de los helados.
+  - Tabla de **Usuarios**: Para clientes y administradores.
+  - Tabla de **Pedidos**: Para el seguimiento de compras realizadas.
 
 ---
 
 ## 🖥️ Tecnologías Utilizadas
 
 - **Frontend:** HTML, CSS, JavaScript.
-- **Backend:** PHP.
+- **Backend:** MySQL.
 - **Framework:** Bootstrap para diseño responsivo.
 
 ---
@@ -50,6 +43,14 @@ A continuación, se muestra un fragmento del sistema que representa la realizaci
 2. **Eficiencia en la Gestión:** Herramientas para optimizar el control del negocio.
 3. **Accesibilidad:** Plataforma disponible en cualquier dispositivo con acceso a internet.
 4. **Preparación para Futuro:** Lista para integrar funcionalidades avanzadas como una base de datos.
+
+---
+
+## 🧩 Estructura del Proyecto
+
+1. **Página Principal:** Vista inicial con información sobre los helados y promociones.
+2. **Tienda Virtual:** Sección donde los clientes pueden explorar y comprar productos.
+3. **Panel de Administración:** Apartado exclusivo para el dueño del negocio.
 
 ---
 
