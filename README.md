@@ -20,19 +20,19 @@ El objetivo principal del sistema es modernizar y optimizar la experiencia de co
 - **Pasarela de Pago**: Integración para procesar pagos de manera segura.
 - **Historial de Compras**: Seguimiento de los pedidos realizados.
 
-### 👩‍💼 Para el Administrador:
-- **Gestión de Productos**: Agregar, editar y eliminar helados del catálogo.
-- **Control de Pedidos**: Ver el estado y detalles de las compras realizadas por los clientes.
-- **Reportes**: Generación de informes sobre ventas y productos más vendidos.
-- **Gestión de Usuarios**: Administrar las cuentas de los clientes y permisos.
+### 🗄️ Base de Datos (Pendiente de Implementación):
+- **Próxima Implementación:** Incorporar una base de datos relacional para almacenar y gestionar la información del sistema, como productos, usuarios y transacciones.
+- **Propuesta Inicial:**
+  - Tabla de **Productos**: Para registrar información de los helados.
+  - Tabla de **Usuarios**: Para clientes y administradores.
+  - Tabla de **Pedidos**: Para el seguimiento de compras realizadas.
 
 ---
 
 ## 🖥️ Tecnologías Utilizadas
 
 - **Frontend:** HTML, CSS, JavaScript.
-- **Backend:** PHP.
-- **Base de Datos:** MySQL.
+- **Backend:** MySQL
 - **Framework:** Bootstrap para diseño responsivo.
 
 ---
@@ -42,7 +42,7 @@ El objetivo principal del sistema es modernizar y optimizar la experiencia de co
 1. **Experiencia Amigable:** Interfaz intuitiva para clientes y administrador.
 2. **Eficiencia en la Gestión:** Herramientas para optimizar el control del negocio.
 3. **Accesibilidad:** Plataforma disponible en cualquier dispositivo con acceso a internet.
-4. **Escalabilidad:** Sistema adaptable para futuras ampliaciones.
+4. **Preparación para Futuro:** Lista para integrar funcionalidades avanzadas como una base de datos.
 
 ---
 
@@ -56,9 +56,9 @@ El objetivo principal del sistema es modernizar y optimizar la experiencia de co
 
 ## 📋 Próximos Pasos
 
-1. **Implementación Real:** Adaptar la página a las necesidades específicas del negocio.
-2. **Marketing Digital:** Promocionar la plataforma en redes sociales para aumentar las ventas.
-3. **Feedback del Usuario:** Recopilar sugerencias para futuras mejoras.
+1. **Implementación de una Base de Datos:** Diseñar e integrar un sistema de almacenamiento de datos (MySQL recomendado).
+2. **Mejoras en la Interfaz:** Incorporar detalles adicionales para enriquecer la experiencia del usuario.
+3. **Marketing Digital:** Promocionar la plataforma en redes sociales para aumentar las ventas.
 
 ---
 
